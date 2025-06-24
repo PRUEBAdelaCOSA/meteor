@@ -40,7 +40,7 @@
     "@babel/preset-react": "^7.16.7",
     "@babel/runtime": "7.17.2",
     "@babel/template": "^7.16.7",
-    "@babel/traverse": "^7.17.0",
+    "@babel/traverse": "^7.27.4",
     "@babel/types": "^7.17.0",
     "@meteorjs/reify": "0.25.4",
     "babel-preset-meteor": "^7.10.0",
