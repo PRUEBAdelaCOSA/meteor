@@ -46,7 +46,7 @@
     "babel-preset-meteor": "^7.10.0",
     "babel-preset-minify": "^0.5.1",
     "convert-source-map": "^1.6.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "meteor-babel-helpers": "0.0.3",
     "typescript": "~5.4.5"
   },
